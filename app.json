@@ -1,10 +1,14 @@
 {
   "expo": {
     "scheme": "acme",
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "name": "freelance-dash",
-    "slug": "freelance-dash"
+    "slug": "freelance-dash",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.freelance-dash"
+    },
+    "android": {
+      "package": "com.anonymous.freelancedash"
+    }
   }
 }
