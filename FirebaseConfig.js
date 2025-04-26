@@ -26,12 +26,12 @@ import {
 // Tu configuración de Firebase
 // NOTA: Debes reemplazar estos valores con tus propias credenciales de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyA5lFSZzcDLdbVzyvaEZiEyoggNIahgdSs",
-  authDomain: "freelance-c33d8.firebaseapp.com",
-  projectId: "freelance-c33d8",
-  storageBucket: "freelance-c33d8.firebasestorage.app",
-  messagingSenderId: "404709743668",
-  appId: "1:404709743668:web:e5feeb7d6a40611065be61",
+  apiKey: "SU_API_KEY",
+  authDomain: "SU_AUTH_DOMAIN",
+  projectId: "SU_PROJECT_ID",
+  storageBucket: "SU_STORAGE_BUCKET",
+  messagingSenderId: "SU_MESSAGING_SENDER_ID",
+  appId: "SU_APP_ID",
 };
 
 // Inicializar Firebase
